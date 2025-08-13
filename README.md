@@ -2,9 +2,13 @@
 
 ## 🚀 About Me
 
-Santiago is a seasoned Software Engineer based in Barcelona, with more than 20 years of experience in web and software development across industries such as media, IT, education, telcos and transportation including airplanes, cars and boats. He has designed, built, maintained and enhanced software across many enterprise projects, collaborating with teams and honing soft skills like communication and negotiation. 
+Santiago is a seasoned Software Engineer based in Barcelona, with more than 20 years of experience in web and software development across industries such as media, IT, education, telcos and transportation including airplanes, cars and boats. 
 
-Driven by a passion for agile development and IT operations, Santiago specializes in cloud environments and open source technologies, blending his expertise in frontend development with data analysis and visualizations. Currently, he works as a Cloud Engineer expert, dedicated to software delivery and cloud-native infrastructure.
+He has designed, built, maintained and enhanced software across many enterprise projects, collaborating with teams and honing soft skills like communication and negotiation. 
+
+Driven by a passion for agile development and IT operations, Santiago specializes in cloud environments and open source technologies, blending his expertise in frontend development with data analysis and visualizations. 
+
+Currently, he works as a Cloud Engineer expert, dedicated to software delivery and cloud-native infrastructure.
 
 <!-- Profile Header -->
 <div align="center">
