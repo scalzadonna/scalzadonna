@@ -1,5 +1,7 @@
 # Hello, World! 👋 
 
+## 🚀 About Me
+
 Santiago Scalzadonna is a seasoned Software Engineer based in Barcelona, with more than 20 years of experience in web and software development across industries such as media, IT, education, telcos and transportation including airplanes, cars and boats. He has designed, built, maintained and enhanced software across many enterprise projects, collaborating with teams and honing soft skills like communication and negotiation. 
 
 Driven by a passion for agile development and IT operations, Santiago specializes in cloud environments and open source technologies, blending his expertise in frontend development with data analysis and visualizations. Currently, he works as a Cloud Engineer expert, dedicated to software delivery and cloud-native infrastructure.
@@ -9,7 +11,7 @@ Driven by a passion for agile development and IT operations, Santiago specialize
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=55F700&center=true&vCenter=true&width=600&lines=Devops+Engineer;Open+Source+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## 🚀 Where's my mind
 
 - 🔭 I'm currently working
   - **Devops Engineer for Boats Group**
@@ -18,11 +20,11 @@ Driven by a passion for agile development and IT operations, Santiago specialize
 - 👯 I'm looking to collaborate on 
   - **Cloud-based projects**
 - 💬 Ask me about 
-  - **AWS/Terraform/Automation**
+  - **AWS/Terraform/Automation/AI**
 - 🏡 Currently living in
   - ![Barcelona](https://img.shields.io/badge/Barcelona-8A2BE2&logoColor=black)
 
-## 🛠️ Tech Stack
+## 🛠️ Some Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,21 +53,15 @@ Driven by a passion for agile development and IT operations, Santiago specialize
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scalzadonna&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scalzadonna&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=scalzadonna&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scalzadonna&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=scalzadonna&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
-
-## 🤝 Connect with Me
+## 🤝 Connect
 
 <div align="center">
   <a href="https://santiscalzadonna.com">
@@ -82,7 +78,7 @@ Driven by a passion for agile development and IT operations, Santiago specialize
   </a>
 </div>
 
-## 💝 Support My Work
+## 🏗️ Support me
 
 <div align="center">
   <a href="https://ko-fi.com/sscalzadonna">
