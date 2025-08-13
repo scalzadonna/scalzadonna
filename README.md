@@ -11,7 +11,7 @@ Driven by a passion for agile development and IT operations, Santiago specialize
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=55F700&center=true&vCenter=true&width=600&lines=Devops+Engineer;Open+Source+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
-## 🚀 Where's my mind
+## 🧠 Where's my mind
 
 - 🔭 I'm currently working
   - **Devops Engineer for Boats Group**
